@@ -13,6 +13,6 @@ The **Scientiﬁc mode** performs all the operations of the standard mode along 
 🔹 Source code is monolithic, i.e. the entire source code is written in a single ﬁle. Hence, easy to download and run!<br>
 
 <h2>How to use?</h2>
-Just download/copy the source code [<a href="https://github.com/Viztruth/Scientific-GUI-Calculator-FULL-CODE/blob/main/scientificcalc.py">scientiﬁccalc.py</a>] and run the ﬁle. Make sure that all the packages are installed before running. Short descriptions are provided along with the code wherever necessary for your understanding.
+Just download/copy the source code [<a href="https://github.com/Viztruth/Scientific-GUI-Calculator-FULL-CODE/blob/main/scientificcalc.py">scientiﬁccalc.py</a>] and run the ﬁle. Make sure that all the packages/libraries are installed before running. Short descriptions are provided along with the code wherever necessary for your understanding.
 
 <h2>If you found the resource useful, don’t forget to star ⭐ the repo and share it. ➕Follow me for more such fun projects!</h2>
