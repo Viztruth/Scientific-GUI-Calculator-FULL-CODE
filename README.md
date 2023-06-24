@@ -1,5 +1,9 @@
 <h1>Scientiﬁc GUI Calculator in Python</h1>
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/638875421/12a6b441-6e23-4763-abb1-53e6ffc489cc" width="400" alt="Golang">
+</p>
+
 A GUI calculator built using Python’s Tkinter module that allows users to interact using buttons for performing mathematical operations. For more detailed information (with images/screenshots), read the <a href="https://github.com/Viztruth/Scientific-GUI-Calculator-FULL-CODE/blob/main/About.pdf">About File (PDF).</a>
 
 <h3><b>Supports both Scientiﬁc and Standard mode.</b></h3>
